@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.ipsw
+*.log
+.DS_Store
+
+# personal notes (contain device serial/ECID)
+REVIEW-iphone-spacefix.md
